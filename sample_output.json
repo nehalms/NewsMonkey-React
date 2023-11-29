@@ -1,0 +1,46 @@
+{
+    "status":"ok",
+    "totalResults":33,
+    "articles":[
+        {
+            "source":{"id":"reuters","name":"Reuters"},
+            "author":"Nidal Al-Mughrabi, Simon Lewis, Maytaal Angel",
+            "title":"Hezbollah says wider Mideast war possible if Gaza assault continues - Reuters","description":"The leader of Lebanon's Iran-backed <a href=\"/world/middle-east/what-is-hezbollah-group-backing-hamas-against-israel-2023-10-30/\">Hezbollah</a> group warned the United States on Friday that if Israel did not stop its assault on Gaza then the conflict could wi…",
+            "url":"https://www.reuters.com/world/middle-east/us-call-israel-implement-humanitarian-pauses-gaza-2023-11-03/",
+            "urlToImage":"https://www.reuters.com/resizer/Jo5ANkV4Qqwi0kG8YM6UAHIXxeI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S7LXQGKFINKETPM4LZWHABVIFI.jpg",
+            "publishedAt":"2023-11-03T16:37:00Z",
+            "content":"GAZA/JERUSALEM, Nov 3 (Reuters) - The leader of Lebanon's Iran-backed Hezbollah group warned the United States on Friday that if Israel did not stop its assault on Gaza then the conflict could widen … [+7059 chars]"
+        },
+
+        {
+            "source":{"id":"reuters","name":"Reuters"},
+            "author":"Lucia Mutikani",
+            "title":"US labor market loosens as job gains slow, unemployment rate hits 3.9% - Reuters","description":"U.S. job growth slowed in October in part as strikes by the United Auto Workers (UAW) union against Detroit's \"Big Three\" car makers depressed manufacturing payrolls, and the increase in annual wages was the smallest in nearly 2-1/2 years, pointing to an easi…","url":"https://www.reuters.com/markets/us/us-job-growth-slows-october-unemployment-rate-rises-39-2023-11-03/",
+            "urlToImage":"https://www.reuters.com/resizer/25lUcyyAwMdsoXlpUcZhEnNNXd0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ON5Y2WAN5BNSDGHUF2YTAOPTGI.jpg",
+            "publishedAt":"2023-11-03T16:09:00Z",
+            "content":"WASHINGTON, Nov 3 (Reuters) - U.S. job growth slowed in October in part as strikes by the United Auto Workers (UAW) union against Detroit's \"Big Three\" car makers depressed manufacturing payrolls, an… [+6558 chars]"
+        },
+
+        
+        {
+            "source":{"id":"associated-press",
+            "name":"Associated Press"},
+            "author":"NAJIB JOBAIN, BASSEM MROUE, DAVID RISING",
+            "title":"Hezbollah leader threatens escalation as Netanyahu rules out cease-fire - The Associated Press",
+            "description":"U.S. Secretary of State Antony Blinken urged Israel to allow more humanitarian into Gaza and do more to protect Palestinian civilians from its war with Hamas, or else there will be “no partners for peace.” Israel warned that it was on high alert on its border…","url":"https://apnews.com/article/israel-hamas-war-gaza-news-11-3-2023-94d5d0b58bc10a14be6ac191060e47e1",
+            "urlToImage":"https://dims.apnews.com/dims4/default/676b41b/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Fd4%2Fbdc8400c9bed3fcdc0f7c1fa9764%2F50b7cea7cbf54be78009b5fe50135d9e","publishedAt":"2023-11-03T15:17:00Z",
+            "content":"KHAN YOUNIS, Gaza Strip (AP) The United States urged Israel on Friday to ensure more humanitarian aid gets into Gaza and to do more to protect Palestinian civilians, as Israels prime minister said th… [+8414 chars]"  
+        },
+        
+        {
+            "source":{"id":null,"name":"CNBC"},
+            "author":"Jessica Dickler, Greg Iacurci",
+            "title":"Matthew Perry reportedly got $20 million a year in ‘Friends’ residuals. Here’s who may get them now - CNBC",
+            "description":"Matthew Perry was still bringing in as much as $20 million a year in syndication income from ‘Friends.’ Experts explain what could happen to that money now.",
+            "url":"https://www.cnbc.com/2023/11/03/matthew-perry-made-millions-in-friends-residuals-what-happens-now.html",
+            "urlToImage":"https://image.cnbcfm.com/api/v1/image/104781650-NBC_Friends_tv_show.jpg?v=1699028746&w=1920&h=1080",
+            "publishedAt":"2023-11-03T14:08:11Z",
+            "content":"Matt LeBlanc as Joey Tribbiani, Matthew Perry as Chandler Bing, Jennifer Aniston as Rachel Green and Courteney Cox as Monica Geller on NBC's \"Friends.\"\r\nMatthew Perry, the beloved actor best known fo… [+6306 chars]"
+        }
+        
+    ]}
